@@ -1,6 +1,6 @@
 # 👋 Hola, soy Joan
 
-### Software Developer | Swift · JavaScript · React · REST APIs · AI Enthusiast
+### Software Developer | Swift · JavaScript · React · Python · REST APIs · AI Enthusiast
 
 Soy desarrollador de software enfocado en crear aplicaciones funcionales, limpias y escalables.  
 Me gusta trabajar con tecnologías web y móviles, construir interfaces modernas y conectar sistemas mediante APIs.
